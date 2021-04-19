@@ -1,0 +1,8 @@
+name: opencv
+
+dependencies:
+  - python==3.7
+  - pip
+  - opencv
+  - pip:
+    - pytesseract
